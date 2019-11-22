@@ -1,0 +1,16 @@
+- DevOps Tools
+  - CI/CD
+    - Jenkins
+    - Bamboo
+    - Azure Pipelines
+    - CircleCI
+    - TravisCI
+    - Concourse
+    - Teamcity
+  - SCM
+    - Azure repos
+    - GitHub
+      - Actions
+      - Packages
+    - BitBucket
+    - GitLab
