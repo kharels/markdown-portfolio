@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+- DevOps Tools
+  - CI/CD
+    - Jenkins
+    - Bamboo
+    - Azure Pipelines
+    - CircleCI
+    - TravisCI
+    - Concourse
+    - Teamcity
+  - SCM
+    - Azure repos
+    - GitHub
+      - Actions
+      - Packages
+    - BitBucket
+    - GitLab
